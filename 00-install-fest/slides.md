@@ -8,9 +8,9 @@ BACK-END WEB DEVELOPMENT
 ---
 
 #Meet your instruction team
-* Corey Speisman 
-* Jesse Shawl 
-* Tedi Konda 
+* Bill Transue
+* Andrei Bondarev
+* Mikael Davis
 
 ---
 
@@ -19,7 +19,7 @@ BACK-END WEB DEVELOPMENT
 Have you...
 
 * Created a Github account?
-* Familiar with HTML/CSS? 
+* Familiar with HTML/CSS?
 * Installed anything yet?
 
 ---
@@ -59,7 +59,7 @@ Then follow the instructions for your platform here:
 
 ---
 
-![Octocat](../../assets/GitHub/octocat.png)
+![Octocat](../assets/GitHub/octocat.png)
 
 #GitHub: Login
   * A place for sharing
@@ -70,7 +70,7 @@ Then follow the instructions for your platform here:
 
 # Feeling adventurous?
 ## GitHub: Clone
-![Clone](../../assets/GitHub/clone.png)
+![Clone](../assets/GitHub/clone.png)
 <pre><code data-trim data-noescape contenteditable>$ git clone git@github.com:ga-students/BEWD_DC_1.git</code></pre>
 "Copy this repository to the current directory on my machine."
 
